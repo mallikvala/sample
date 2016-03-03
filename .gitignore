@@ -1,4 +1,12 @@
 target/
-.classpath
 .mvn/
 .project
+.gitignore
+**/node_modules
+**/bower_components
+.idea/*
+**/.tmp/*
+.classpath
+bin/*
+.settings
+.checkstyle
